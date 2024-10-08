@@ -112,23 +112,24 @@ Take some time to think about the following scenario and questions before you mo
 
 Modern techniques of conception and human genetic engineering raise important new issues for human development. A pamphlet containing the following message was left at doorsteps in TWU professor Philipchalk's neighborhood:
 
-::: {#fig-U3xT1xLearningACtivitity}
-
-![](assets/u3/U3_T1_LearningACtivitity.JPG){fig-alt="" .lightbox fig-align="left"}
-
-:::
-
-::: {.content-visible when-format="docx"}
-//todo
-Prote: Image missing caption and alt text.
-:::
-
-Image showing an example of surrogacy message
+> A personal message for the lady of the home
+> 
+> Hello:
+> 
+> My husband and I would like to contact a woman who will act as a surrogate mother to have a child for us.
+> 
+> The woman would receive compensation for her expenses during the pregnancy.
+> 
+> If you are interested in speaking with either myself or my husband about possibly acting as a surrogate mother to give us a child please call.
+> 
+> We will deal confidentially with anyone who phones. I am a registered nurse.
+> 
+> Pat or John
 
 (*You may also wish to consider how the “Designer Babies” topic connects to this activity as well.*)
 
-- ***How do you feel about this request?***
-- ***What problems might you anticipate?***
+- **How do you feel about this request?**
+- **What problems might you anticipate?**
 
 *Be prepared to share your thoughts with other members of the class*
 

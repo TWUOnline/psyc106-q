@@ -122,16 +122,7 @@ Take a moment to reflect on what you have learned in this section. Use the follo
 
 In 1890, William James gave a simple formula for self-esteem:
 
-::: {#fig-Unit5xTopic2xImage}
-
-![](assets/u5/Unit5_Topic2_Image.png){fig-alt="" .lightbox fig-align="left"}
-
-:::
-
-::: {.content-visible when-format="docx"}
-//todo
-Prote: Image missing caption and alt text.
-:::
+> $\text{Self-Esteem}=\frac{\text{Success}}{\text{Pretensions}}$
 
 *James explained:*
 
