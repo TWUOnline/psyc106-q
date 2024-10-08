@@ -4,8 +4,6 @@
 
 **Welcome to PSYC 106: Introduction to Psychology**
 
-<!--Comment by Katy-->
-
 This course will examine many different aspects of behaviour - from microscopic internal structures and functions to group and social processes. Though this journey covers many topics, the central theme of our exploration will be to understand why, and how, we behave the way we do. In Unit 1, we will start to explore how psychology can help you see the world in a different way and can help you understand why other people behave the way they do. One of the reasons psychology is such an exciting field is that it is easy to see how this field of study relates to your own life. You live out psychology; you feel emotions, you take in sensations, and you produce behaviours such as thoughts and actions. Additionally, human behaviour is complex and can be interpreted in numerous ways. Every topic in psychology could be examined from any one of these interdependent perspectives: biological, cognitive (thinking), and sociocultural (know as the biopsychosocial model). What is more is that for many people the spiritual perspective is an essential consideration, too. Therefore, to begin using psychology as a lens from which to understand behaviour it will be important for you to know what psychology is, what psychologists do, and how to critically evaluate your beliefs using the tools of psychological science.
 
 ### Topics {.unnumbered}
