@@ -23,9 +23,11 @@ By the end of this unit, student's will be able to:
 - Analyze the roots of violence and prejudice, roles of personality traits and psychological and physical states, and the genetic basis of personality in determining behaviour.
 - Assess claims that males and females have fundamentally different personalities and whether projective tests are valid measures of personality.
 
-### Learning Activities
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
+
+:::: {.learning-activity}
 
 - Read the relevant sections of Chapter 12 of your textbook
 - Review the Chapter 12 - Notes (intended to support your understanding of your readings)
@@ -44,11 +46,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 :::
 
-::: {.note}
+### Assessment {.unnumbered} 
 
-***Assessment*** In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
-
-:::
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ### Resources {.unnumbered}
 
@@ -59,7 +59,7 @@ Here are some additional resources that will help you complete this unit:
 
 ## Psychoanalytic View
 
-"We are sent into this world to acquire a personality and a character to take with us that can never be taken from us." *(In a letter from a WW II Royal Air Force pilot to his mother)*
+>"We are sent into this world to acquire a personality and a character to take with us that can never be taken from us." *(In a letter from a WW II Royal Air Force pilot to his mother)*
 
 ### Personality Theories {.unnumbered}
 
@@ -69,7 +69,7 @@ Aside from all these more formal theories, each of us has an implicit personalit
 
 ### Dreams {.unnumbered}
 
-“And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions” *(Joel 2:28)*.
+>“And afterward, I will pour out my Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions” *(Joel 2:28)*.
 
 God apparently spoke through dreams many times in the bible, and in Joel 2:28 He promised to do so in the future. Does God still (or again) speak through dreams? Are we missing out on a possible leading from God when we ignore our dreams? If you would like to read more on this subject you might be interested in books by Christians on this subject. For example, see John A. Sanford's Dreams, God's Forgotten Language, or Morton T. Kelsey's God, Dreams, and Revelation, or Abraham Schmitt’s Before I Wake. The website below (cf. Online Resources) contains some balanced advice. Also, voice your opinion or give your experience in the online discussion.
 
@@ -122,7 +122,7 @@ Take a moment to reflect on what you have learned in this section. Use the follo
 
 In 1890, William James gave a simple formula for self-esteem:
 
-> $\text{Self-Esteem}=\frac{\text{Success}}{\text{Pretensions}}$
+$\text{Self-Esteem}=\frac{\text{Success}}{\text{Pretensions}}$
 
 *James explained:*
 
@@ -136,7 +136,7 @@ Recently, however, several authors have begun to challenge this focus on raising
 
 Sharon Neuman (1992) argues that self-esteem must follow, not precede, real achievement. She claims that no number of self-esteem programs can replace the genuine satisfaction of a job well done. Wesley Burr and Clark Christensen (1992) suggest that the idea that we must esteem ourselves highly before we can value and love others is a "Western myth." They add:
 
-We would improve our thinking if we were to take the idea that "we cannot love others until we love ourself" and turn it 180 degrees to be: "We cannot love ourself until we love others." We would further improve our thinking if we then concluded that this is a fairly irrelevant and unimportant idea anyway because it still implies that loving ourself is what is important. (p. 464)
+>We would improve our thinking if we were to take the idea that "we cannot love others until we love ourself" and turn it 180 degrees to be: "We cannot love ourself until we love others." We would further improve our thinking if we then concluded that this is a fairly irrelevant and unimportant idea anyway because it still implies that loving ourself is what is important. (p. 464)
 
 Burr and Christensen suggest that self-esteem is a fruit and not a root of healthy emotional connections between people. *(From Invitation to Social Psychology by Ron Philipchalk)*
 
@@ -152,6 +152,7 @@ Some Christians object to the humanistic perspective because of its unqualified 
 
 As we explore a humanistic view, as it relates to personality, we start to see the development of self-esteem. Take some time to read through the following resources and consider how they connect to what you have learned:
 
+- [**Kids Health: Self Esteem**](https://kidshealth.org/en/kids/self-esteem.html){target="_blank"}
 - [**National Association for Self-Esteem**](http://healthyselfesteem.org/){target="_blank"}
 - [**Society for Humanistic Psychology**](https://www.apa.org/about/division/div32){target="_blank"}
 
@@ -194,8 +195,6 @@ The trait approach to personality is closely linked to the matter of psychologic
 Do you have a desire to know what “kind” of person you are? This common desire can be used to manipulate you in a variety of ways. As discussed in the textbook, sometimes it is easier to make people believe that you are measuring their personality than it is to actually measure it. In fact, it is remarkably easy for people to be convinced that a personality profile describes them well. This phenomena is known as “the Barnum effect,” after the circus showman P. T. Barnum. The Barnum effect hearkens back to the late 1940s, when psychologist Bertram Forer gave research participants a personality test and then generated a personality description that subjects believed was based on their test responses. Even though all participants were given exactly the same personality description, they found the profile to be highly convincing and descriptive of them as an individual. When asked to rate how well the profile described them, on a scale ranging from 0 (very poor) to 5 (excellent), the average rating was an impressive 4.26 (Forer, 1949)You, too, can try this experiment. Read the personality description below and rate, on a scale ranging from 0 (very poor) to 5 (excellent), how well this description describes you:
 
 *You have a strong need for other people to like you and for them to ad­mire you. You have a tendency to be critical of yourself. You have a great deal of unused energy which you have not turned to your advantage. While you have personality weaknesses, you are generally able to compensate for them. Your sexual adjustment has presented some problems for you. Dis­ci­plined and controlled on the outside, you tend to be worrisome and in­se­cure inside. At times you have serious doubts as to whether you have made the right decision or done the right thing. You prefer a certain amount of change and variety and become dissatisfied when hemmed-in by restrictions and limitations. You pride yourself as being an independent thinker and do not accept other opinions without satisfactory proof. You have found it un­wise to be too frank in revealing yourself to others. At times you are extro­verted, affable, sociable, while at other times you are introverted, wary, and reserved. Some of your aspirations tend to be pretty unrealistic.*
-
-<!-- [plugin:content-inject](_activities){target="_blank"} --> 
 
 ### Activity: Practice, Read, and Reflect
 
@@ -278,7 +277,7 @@ Take a moment to reflect on what you have learned in this section. Read the foll
 
 - ***Does this mean that Christians (and others who believe in God) are less psychologically healthy because they believe an external force (God) is in control?***
 
-*Be prepared to share your thoughts and insights with other members of the class.
+*Be prepared to share your thoughts and insights with other members of the class.*
 
 :::
 
@@ -291,8 +290,6 @@ Refer to the course schedule for graded assignments you are responsible for subm
 In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 :::
-
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 

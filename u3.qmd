@@ -10,9 +10,9 @@ In this Unit (Part 1), you will learn about various strategies for researching h
 
 This unit is divided into the following topics:
 
- 1. Prenatal Development
- 2. Infancy and Childhood
- 3. Adolescence
+1. Prenatal Development
+2. Infancy and Childhood
+3. Adolescence
 
 ### Learning Outcomes {.unnumbered}
 
@@ -25,9 +25,11 @@ By the end of this unit, student's will be able to:
 - Apply your understanding to identify the best ways expectant parents can ensure the health of their developing fetus, how to promote learning, and how to categorize moral reasoning.
 - Analyze the effects of preterm birth, how to effectively discipline children, and adolescent judgment and risk taking.
 
-### Learning Activities
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
+
+:::: {.learning-activity}
 
 - Read the relevant sections of Chapter 10 of your textbook
 - Review Chapter 10 - Notes (intended to support your understanding of your readings)
@@ -45,13 +47,9 @@ The course units follow topics in the textbook, *Revel for An Introduction to Ps
 
 :::
 
-::: {.note}
-
-***Assessment***
+### Assessment {.unnumbered}
 
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
-
-:::
 
 ### Resources {.unnumbered}
 
@@ -271,8 +269,6 @@ Refer to the course schedule for graded assignments you are responsible for subm
 In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 :::
-
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 

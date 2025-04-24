@@ -23,9 +23,11 @@ By the end of this unit, student's will be able to:
 - Analyze whether guards who participate in abuse are inherently bad people, or if their behaviour is the product of social influences and whether people who commit discriminatory acts are necessarily prejudiced.
 - Describe how behaviours influence attitudes in terms of cognitive dissonance theory.
 
-### Learning Activities
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
+
+:::: {.learning-activity}
 
 - Read the relevant sections of Chapter 13 of your textbook
 - Review the Chapter 13 - Notes (intended to support your understanding of your readings)
@@ -42,11 +44,9 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 :::
 
-::: {.note}
+### Assessment {.unnumbered}
 
-**Assessment** In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
-
-:::
+In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
 
 ### Resources {.unnumbered}
 
@@ -99,7 +99,7 @@ Consider the following questions:
 
 ## Conformity
 
-“Oh, God, the terrible tyranny of the majority.” *(from Fahrenheit 451 by Ray Bradbury, p. 97)*
+>“Oh, God, the terrible tyranny of the majority.” *(from Fahrenheit 451 by Ray Bradbury, p. 97)*
 
 ### Conformity vs. Compliance & Obedience {.unnumbered}
 
@@ -293,8 +293,6 @@ Refer to the course schedule for graded assignments you are responsible for subm
 In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 :::
-
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 

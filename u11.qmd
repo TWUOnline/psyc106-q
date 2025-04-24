@@ -20,9 +20,11 @@ By the end of this unit, student's will be able to:
 - Analyze whether self-help options, such as popular books, are a useful therapy option, the pros and cons of the major types of psychotherapy and whether St. John’s Wort, a popular herbal remedy for depression, works.
 - Describe how the drugs described in this module, and the other major medical approaches to therapy, affect brain functioning.
 
-### Learning Activities
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
+
+:::: {.learning-activity}
 
 - Read the relevant sections of Chapter 16 of your textbook
 - Review the Chapter 16 - Notes (intended to support your understanding of your readings)
@@ -38,13 +40,9 @@ The course units follow topics in the textbook, *Revel for An Introduction to Ps
 
 :::
 
-::: {.note}
-
-***Assessment***
+### Assessment {.unnumbered}
 
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
-
-:::
 
 ### Resources {.unnumbered}
 
@@ -111,8 +109,6 @@ Refer to the course schedule for graded assignments you are responsible for subm
 In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 :::
-
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 

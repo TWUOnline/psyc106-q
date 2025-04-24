@@ -21,9 +21,11 @@ By the end of this unit, students will be able to:
 - Apply the concepts of entity theory and incremental theory to help kids succeed in school, to identify examples from the triarchic and multiple theories of intelligence, and to recognize environmental and behavioural effects on intelligence to understand how to enhance your own cognitive abilities.
 - Analyze why it is difficult to remove all cultural bias from intelligence testing and whether teachers should spend time tailoring lessons to each individual student’s learning style.
 
-### Learning Activities
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it helpful in planning your work.
+
+:::: {.learning-activity}
 
 - Read Chapter 9 of your textbook
 - Review Chapter 9 - Notes (intended to support your understanding of your readings)
@@ -39,13 +41,11 @@ The course units follow topics in the textbook, *Revel for An Introduction to Ps
 
 :::
 
-::: {.note}
+:::
 
-***Assessment***
+### Assessment {.unnumbered}
 
 In this course you demonstrate your understanding of the course learning outcomes in different ways, including papers, projects, discussions and quizzes. Please see the Assessment section in Moodle for assignment details and due dates.
-
-:::
 
 ### Resources {.unnumbered}
 
@@ -206,10 +206,10 @@ In order to review some of the major terms from Chapter 9 in your textbook, take
 
 Consider the following scenario (and questions):
 
-> If you suggest that Asians have darker skin than Caucasians, you are not considered racist; this is an obvious fact with a genetic basis. However, if you suggest that Asians are more intelligent than Caucasians (as IQ tests show), or that African Americans are less intelligent, watch out
+If you suggest that Asians have darker skin than Caucasians, you are not considered racist; this is an obvious fact with a genetic basis. However, if you suggest that Asians are more intelligent than Caucasians (as IQ tests show), or that African Americans are less intelligent, watch out
 
-- **What is different about these two claims that makes us accept one and not the other? Is it the role of nature versus nurture? Or is it more closely tied to the high value our culture places on intelligence, and especially IQ scores?**
-- **If IQ were unimportant would it matter if one racial or gender group tended to score higher than another group? Would you be considered racist or sexist for suggesting this?**
+- What is different about these two claims that makes us accept one and not the other? Is it the role of nature versus nurture? Or is it more closely tied to the high value our culture places on intelligence, and especially IQ scores?
+- If IQ were unimportant would it matter if one racial or gender group tended to score higher than another group? Would you be considered racist or sexist for suggesting this?
 
 *Be prepared to share your thoughts and insights with other members of the class.*
 
@@ -224,8 +224,6 @@ Refer to the course schedule for graded assignments you are responsible for subm
 In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
 
 :::
-
-## Checking Your Learning {.unnumbered}
 
 ::: {.check}
 
