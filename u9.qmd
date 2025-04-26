@@ -111,7 +111,7 @@ Now that you have some understanding concerning the differences between aggressi
 - Submissive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Assertive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-***Situation #5:*** You have received a grade that is much lower than you feel you deserved on an essay examination.*
+***Situation #5:*** *You have received a grade that is much lower than you feel you deserved on an essay examination.*
 
 - Aggressive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Submissive Response: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -150,19 +150,21 @@ Geller reports that in one 4 1/2 year time period, for 33.7 percent of the fligh
 
 This summary of Geller’s past activities demonstrates that with motivation and persistence, you can change not only your own behaviours, but also, those of large corporations. If you have been on an airplane recently, you have likely noticed that the universally communicated announcement to have your seatbelt fastened during landing and transport back to the terminal.
 
-<!-- [plugin:content-inject](_activities){target="_blank"} --> 
-
 ### Activity: Read and Reflect
 
 ::: {.learning-activity}
 
 In this activity you will watch Dr. Kelly McGonigal’s *TED talk* titled, ***"How to Make Stress your Friend."*** This video is groundbreaking research to help people transform their perspective on stress:
 
-<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src=https://embed.ted.com/talks/lang/en/kelly_mcgonigal_how_to_make_stress_your_friend" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<div class="video-container">
+
+{{< video https://www.youtube-nocookie.com/embed/RcGyVTAoXEU?si=kAAFK2zD0hYIoUIm >}}
+
+</div>
 
 After watching the video, take a few minutes to read about Dr. Gil Greengross’ research that challenges the widely held belief that humour is good for your health. Here is the link to his Psychology Today article:
 
-- [***Psychology Today***](https://www.psychologytoday.com/intl/blog/humor-sapiens/201805/humor-may-not-be-so-good-your-health){target="_blank"}
+- [***Humor May Not Be So Good for Your Health***](https://www.psychologytoday.com/intl/blog/humor-sapiens/201805/humor-may-not-be-so-good-your-health){target="_blank"}
 
 :::
 
