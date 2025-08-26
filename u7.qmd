@@ -172,7 +172,7 @@ What is it that makes you think that someone is attractive, kind, evil, competen
 
  - [**Facial Attractiveness**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3130383/){target="_blank"}
  - [**Survival of the Prettiest**](https://www.macleans.ca/society/science/the-mysterious-power-of-attractive-people/){target="_blank"}
- - [**Altruism in Advertising**](https://public.wsu.edu/~taflinge/altruism.html){target="_blank"}
+<!-- invalid link - [**Altruism in Advertising**](https://public.wsu.edu/~taflinge/altruism.html){target="_blank"}-->
  - [**Random Acts of Kindess**](http://www.actsofkindness.org/){target="_blank"}
 
 :::
@@ -200,15 +200,7 @@ Read through the following questions and reflect on what you have learned:
 
 :::
 
-## Assessment {.unnumbered}
-
-::: {.note}
-
-Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
-
-In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
-
-:::
+## Summary {.unnumbered}
 
 ::: {.check}
 

@@ -204,7 +204,7 @@ In this topic we have continued to develop our understanding of personality. Bel
 
 - [**Queendom.com**](https://www.queendom.com/){target="_blank"}
 
-*Queendom.com* is a great resource for different kinds of tests. You will be looking specifically at Personality tests on this site. When you go to [www.queendom.com,](www.queendom.com,){target="_blank"} click on the **"TESTS, QUIZZES & POLLS"** tab and select **TESTS.** From the **PERSONALITY TESTS** list select ONE of the following personality tests:
+*Queendom.com* is a great resource for different kinds of tests. You will be looking specifically at Personality tests on this site. When you go to [www.queendom.com,](https://www.queendom.com/){target="_blank"} click on the **"TESTS, QUIZZES & POLLS"** tab and select **TESTS.** From the **PERSONALITY TESTS** list select ONE of the following personality tests:
 
 - DISC Personality Test
 - Big Five Personality Test
@@ -281,15 +281,7 @@ Take a moment to reflect on what you have learned in this section. Read the foll
 
 :::
 
-## Assessment {.unnumbered}
-
-::: {.note}
-
-Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
-
-In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
-
-:::
+## Summary {.unnumbered}
 
 ::: {.check}
 

@@ -137,15 +137,7 @@ The following issues are often subject to cul­tural variations:
 
 <!-- [plugin:content-inject](_activities){target="_blank"} --> 
 
-## Assessment {.unnumbered}
-
-::: {.note}
-
-Refer to the course schedule for graded assignments you are responsible for submitting. **All graded assignments, and their due dates, can be found on the "Assessment" tab.**
-
-In addition to any graded assignments you are responsible for submitting, be sure to complete all the Learning Activities that have been provided throughout the content - these are intended to support your understanding of the content.
-
-:::
+## Summary {.unnumbered}
 
 ::: {.check}
 
