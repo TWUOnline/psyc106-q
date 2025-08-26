@@ -36,13 +36,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Read and Reflect on the articles *Body Language Speaks Volumes,* *Catching a Liar,* and *10 Reasons Why You Should Smile*
 - Read and Reflect on the articles *Ways to Handle Emotion* and *Recovering Emotionally from a Disaster*
 
-:::
-
-::: {.note icon="true"}
-
-***Note***
-
-The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
+*Note:* The course units follow topics in the textbook, *Revel for An Introduction to Psychological Science* by Krause et al. (4th Edition). For each unit, please read the pertinent chapter(s) before completing the assessment for the unit.
 
 :::
 
@@ -137,7 +131,7 @@ Now that you understand what’s happening inside your body when you are angry o
 
 Consider the following arguments *(adapted from Philipchalk,1988, p.114 ff):*
 
-### What is the Proper Role of Emotion?
+### What is the Proper Role of Emotion? {.unnumbered}
 
 #### No Role {.unnumbered}
 

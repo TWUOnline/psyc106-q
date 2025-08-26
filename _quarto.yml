@@ -6,7 +6,7 @@ project:
 
 # Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
-#author-title: "Authors"
+author-title: "Authors"
 
 book:
   title: "PSYC 106"
@@ -36,7 +36,7 @@ book:
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
-link-citations: true
+link-citations: false
 
 # Lua Filters
 filters:

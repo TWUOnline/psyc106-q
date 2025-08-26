@@ -33,7 +33,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 - Perform the I.Q. Testing (from provided resources)
 - Complete the Chapter 9 Key Terms Quiz (ungraded)
 
-::: {.note icon="true"}
+::: {.note}
 
 **Note**
 
@@ -123,7 +123,7 @@ Take a moment to reflect on the following questions:
 
 In this section we continue to build upon our understanding of intelligence and testing to focus on Intelligence tests and those who score at the "extremes." Intelligence tests are the most common tool used to measure intelligence. Intelligence test are one method of assessing an individual’s mental aptitudes and comparing them with those of others using numerical scores. These scores are then plotted on a normal (bell) curve to estimate where a person’s intelligence rates in relation to a standardized population. The extremes of intelligence is the understanding that on one end of the continuum are those with intellectual disabilities and on the other end are those who are geniuses.
 
-::: {.note icon="true"}
+::: {.note}
 
 **Online Articles of Interest**
 
@@ -177,7 +177,7 @@ If or when you have children, will you ban screens (TV, smart phone, tablet, lap
 
 IQ tests are generally valid for their original purpose—as predictors of academic performance. Controversy arises when IQ scores are taken to mean overall intelligence and even overall worth. IQ scores consistently predict that some cultural and racial groups will do better at school than will other groups. These differences are an indication of bias not in the IQ tests but in the backgrounds and academic settings that first create and then magnify differences.
 
-::: {.note icon="true"}
+::: {.note}
 
 **Online Articles of Interest**
 

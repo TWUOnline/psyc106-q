@@ -84,7 +84,7 @@ This box is for checking your understanding, to make sure you are ready for what
 
 ```{block2, type='caution'}
 
-***Note***
+*Note:*
 
 This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 
