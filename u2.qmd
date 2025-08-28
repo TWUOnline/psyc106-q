@@ -129,7 +129,7 @@ In this section we continue to build upon our understanding of intelligence and 
 
 To supplement our understanding of this topic, take a moment to explore the following resources:
 
-- [**The Arc**](https://thearc.org/){target="_blank"}
+- [**The Arc**](https://arcprize.org/arc-agi){target="_blank"}
 - [**MENSA International**](https://www.mensa.org){target="_blank"}
 
 :::

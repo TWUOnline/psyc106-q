@@ -10,8 +10,10 @@ This unit will be divided into the following topics:
 
 1.  Looking at What is Normal and Anxiety Disorders
 2.  Mood Disorders
-3.  Schizophrenia
-4.  Personality Disorders
+3.  Depression
+4.  Heartsick
+5.  Schizophrenia
+6.  Personality Disorders
 
 ### Learning Outcomes {.unnumbered}
 
@@ -102,7 +104,7 @@ The following articles augment your understanding of the descriptions of the dis
 
 -   [**Understanding Psychological Disorders**](https://www.healthline.com/health/psychological-disorders){target="_blank"}
 -   [**What are Anxiety Disorders**](https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders){target="_blank"}
--   [**Criticism of America's Diagnostic Bible - The DSM**](https://www.oregoncounseling.org/criticism-of-americas-diagnostic-bible-the-dsm){target="_blank"}
+
 :::
 
 ### Activity: Questions for Consideration
