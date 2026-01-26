@@ -1,34 +1,41 @@
-# version 2.4
+# version 99.1
 
 project:
-  type: book
+  type: website
   output-dir: docs
 
 # Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
+author: "Todd Dutka"
+date: "last-modified"
+date-format: "MMM D, YYYY"
 published-title: "Last Modified"
-author-title: "Authors"
+author-title: "Course Developer"
 
-book:
+website:
   title: "PSYC 106"
-  author: "TWU Online"
-  date: "last-modified"
-  date-format: "MMM D, YYYY"
-  search: true
-  chapters:
-    - index.qmd
-    - u1.qmd
-    - u2.qmd
-    - u3.qmd
-    - u4.qmd
-    - u5.qmd
-    - u6.qmd
-    - u7.qmd
-    - u8.qmd
-    - u9.qmd
-    - u10.qmd
-    - u11.qmd
-    - u12.qmd
-
+  reader-mode: true
+  sidebar: 
+    style: "floating"
+    search: true
+    contents:
+      - index.qmd
+      - u1.qmd
+      - u2.qmd
+      - u3.qmd
+      - u4.qmd
+      - u5.qmd
+      - u6.qmd
+      - u7.qmd
+      - u8.qmd
+      - u9.qmd
+      - u10.qmd
+      - u11.qmd
+      - u12.qmd
+  bread-crumbs: false
+  page-navigation: true
+  back-to-top-navigation: true
+  repo-url: https://github.com/TWUOnline/psyc106-q
+  repo-actions: [issue]
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
 #    - references.qmd
 
@@ -36,7 +43,7 @@ book:
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
-link-citations: false
+link-citations: true
 
 # Lua Filters
 filters:
@@ -60,6 +67,8 @@ format:
       style: "docked"
       search: true
     css: https://twuonline.github.io/course-materials/quarto/twu_styles.css
+    number-sections: true
+    number-depth: 4
     toc-depth: 4
     toc: true
     toc-title: On This Page
@@ -71,9 +80,9 @@ format:
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
         
-# # Format - PDF
-#   pdf:
-#     documentclass: scrreprt
+# Format - PDF
+    pdf:
+     documentclass: scrreprt
 
 # Format - Doc
   docx:
@@ -85,4 +94,4 @@ format:
 fig-cap-location: top
 lightbox:
   desc-position: top
-
+#format-links: [PDF]
